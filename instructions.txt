@@ -1,0 +1,107 @@
+WED 02 June 2021  10.00 am to 12.00 pm 
+
+10.00 am to 10.30 am - introducing version control repository-  Github
+10.30 am to 11.00 am - set up git hub
+11.00 am to 12.00pm - project bug fix 
+
+Project -  https://tinyurl.com/m4xdky9s - Go to this link to open the following 
+1) Download the doc Version Control _part 8.docx from my connexion 
+2) watch the video to set up Git Hub
+
+lesson starts at 10.15am
+
+Thursday 03 June 2021  8.30am to 12.00 pm - OCT
+
+Project demo for marking and submission 
+Reg. No 1-10 - from 8.30 am to 9.30 am
+Reg No 11-20  - from 9.45 am to 10.45 am
+Reg No 21-36 - 10.45 am to 11.45am 
+
+
+
+
+
+
+
+Today final class - OCT 
+ Wed & Thursday - HBL( management  decision)  
+
+1)Project checking - by Ms. Suja 
+Please show your project completed till now 
+
+2)Those who need help with fixing the errors to complete the project let me know while I check your
+work 
+
+3) project submission - will open the link at 3.30pm
+
+reference for project7_doc
+https://tinyurl.com/m4xdky9s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+break now - lesson resumes at 10.15am
+
+lesson starts at 8.45am
+Project submission - 31/05/2021 in class thru 
+myconnex 
+
+Today's plan for Project
+Log into myconnexion and download the project reference files from the folder
+project updated files 
+
+1)Project part 6-program and deploy_v1.docx
+2)Project part 7-program and deploy_V1.docx - share thru google docs  - Go to this link and download the file at 
+https://tinyurl.com/m4xdky9s
+
+Today coding 4)dispatch.php & 5)update.php
+Completed the following php files 
+1)nav.php 
+2)db.php
+3)logcall.php
+4)dispatch.php
+Make sure it is working 
+
+
+
+
+
+
+
+break now
+dispatch.php
+1)update patrolcar 
+status_id updated to 1 from 3
+2)create a new record to incident table
+3)create records(more than 1 based on the no.of cars distached) to the dispatch
+
+
+
+Good Afternoon!
+lesson starts at 8.45am
+Today's plan for Project
+Log into myconnexion and download the project reference files from the folder
+project updated files 
+
+1)Project part 4-program and deploy_v1.docx
+2)Project part 5-program and deploy_V2.docx
+
+Complete te following php files 
+1)nav.php 
+2)db.php
+3)logcall.php
+4)dispatch.php
